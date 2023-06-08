@@ -1,7 +1,7 @@
 # Hands-on-Linux-Command
 
 ### Docker 
-* How many iamges in Docker 
+* How many images in Docker 
 ```
 docker images -q | wc -l
 ```
